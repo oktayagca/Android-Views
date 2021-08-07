@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">First Homework</string>
+    <string name="register">Already have account?<b> <font color="black">Log in</font></b></string>
+    <string name="privacy_policy">By signing in, I agree with<b> <font color="black"> Terms os Use</font></b>\n and <b> <font color="black">Privacy Policy</font></b></string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur<br/>adipiscing elit. Ac velit in nascetur pulvinar<br/> dignissim. Lectus elit odio hendrerit vel sed</string>
+</resources>
